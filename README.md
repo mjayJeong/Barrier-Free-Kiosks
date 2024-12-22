@@ -1,4 +1,4 @@
-# Barrier-Free Kiosks Models
+# Barrier-Free Kiosks Model
 
 This project presents an accessible kiosk system that includes gesture recognition, facial recognition, eye tracking, and voice recognition. It is designed to cater to diverse users, including individuals with disabilities, older adults, and those with limited digital literacy. The system provides seamless interaction through intuitive user interfaces and intelligent model integration.
 
