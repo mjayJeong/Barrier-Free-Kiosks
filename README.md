@@ -23,7 +23,7 @@ The Barrier-Free Kiosks aim to improve digital accessibility by:
   - Data augmentation techniques like brightness adjustment, shearing, and zoom were applied to create a robust dataset.
 - **Implementation**: CNN architecture used for high precision and efficiency in gesture classification.
 
-### 2. Facial Recognition
+### 2. Face Recognition
 - **Model**: Combines DeepFace and AgeNet using an ensemble method:
   - **DeepFace**: High weight (70%) for precise age estimation.
   - **AgeNet**: Low weight (30%) to handle broader age ranges.
@@ -65,11 +65,3 @@ The Barrier-Free Kiosks aim to improve digital accessibility by:
 - **Facial Recognition Models**: Pre-trained models for integration.
 - **Voice Recognition**: Predefined word list for comparison.
 
----
-
-## How to Execute
-
-### Prerequisites
-1. Install Python and the required libraries:
-   ```bash
-   pip install mediapipe opencv-python tensorflow numpy
