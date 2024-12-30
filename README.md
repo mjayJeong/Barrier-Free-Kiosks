@@ -50,7 +50,7 @@ The Barrier-Free Kiosks aim to improve digital accessibility by:
 
 ---
 
-## Technical Implementation
+## Technical Implementation 
 
 ### Tools & Libraries
 - **Gesture Recognition**: MediaPipe and CNN.
